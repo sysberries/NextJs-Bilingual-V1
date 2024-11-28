@@ -1,0 +1,20 @@
+{
+  "MainMenu": {
+    "about": "Ar-About",
+    "contact": "Ar-Contact"
+  }, 
+   "Home": {
+      "title": "Arabic NextJS i18n Tutorial",
+      "description": "Arabic Tutorial of how to manipulate i18n based on route path or domain with  Nextjs v15"
+    },
+    "Step1": {
+      "title": "Arabic Step 1 Title",
+      "EXPLANATION_PARAGRAPH1": "Arabic lorem ipsum"
+    },
+    "Step2": {
+      "title": "Arabic Step 2 Title",
+      "EXPLANATION_PARAGRAPH1": "Arabic lorem ipsum",
+      "EXPLANATION_PARAGRAPH2": "Arabic lorem ipsum",
+      "EXPLANATION_PARAGRAPH3": "Arabic lorem ipsum"
+    }
+  }
